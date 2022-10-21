@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	JSP TEST
+	 JSP TEST
 
 </body>
 </html>
